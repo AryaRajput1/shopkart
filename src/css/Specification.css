@@ -1,0 +1,7 @@
+.specification{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(254, 244, 246);
+    margin-top: -4px;
+    padding: 10px;
+}

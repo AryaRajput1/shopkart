@@ -1,0 +1,25 @@
+.product-section{
+    background-color: rgb(254, 244, 246);
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    margin-top: -4px;
+    text-align: center;
+}
+
+.product-section > p{
+    color: rgb(255, 93, 120);
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    display: inline-block;
+    /* border: 1px solid rgb(255, 93, 120); */
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+    border-radius: 5px;
+}
+
+.product-list{
+    display: flex;
+    flex-wrap: wrap;
+}

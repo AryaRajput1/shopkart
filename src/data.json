@@ -1,0 +1,106 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },
+        {
+            "id":2,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":3,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":4,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":5,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":6,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":7,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":8,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":9,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        },{
+            "id":10,
+            "name":"iPhone 10",
+            "price":45000,
+            "imgUrl":"./img/img1.jpg",
+            "ratings":3.5,
+            "description":"i Phone 10 is 256GB Phone",
+            "category":"electronics",
+            "featured":true,
+            "mostSelling":true
+        }
+    ]
+}

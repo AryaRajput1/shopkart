@@ -1,0 +1,35 @@
+.middleBanner{
+    height: 40vh;
+    width: 100%;
+    position: relative;
+}
+
+.banner_img{
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+    object-position:top left;
+    filter:blur(0.5)
+}
+
+.banner_left_content{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    color: pink;
+    top: 30%;
+    left: 15%;
+}
+.banner_right_content{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: rgba(0,0,0,0.7);
+    padding: 20px;
+    color: pink;
+    top: 30%;
+    right: 15%;
+}

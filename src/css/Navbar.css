@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+
+nav{
+    display: flex;
+    background-color: rgb(255, 235, 239);
+    height: 8vh;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 25px;
+    margin: 0px;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 40%;
+    justify-content: space-around;
+    list-style: none;
+}
+
+li{
+    color: white;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
