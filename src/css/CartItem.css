@@ -1,0 +1,114 @@
+.cart{
+    display: flex;
+    width: 100%;
+}
+
+.cart__banner{
+    width: 100%;
+    background-color: rgb(251, 128, 149);
+    height: 150px;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cart__banner-icon{
+    margin: 0px 10px;
+}
+
+.cart_item_list{
+    width: 100%;
+    /* border: 1px solid black; */
+}
+
+.cartItem{
+    padding: 10px;
+    margin: 20px;
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: end;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.cartItem > img{
+    height: 100%;
+    width: 30%;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+}
+
+.cartItem_details{
+    height: 100%;
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.cartItem_details > strong {
+    display: block;
+    margin: 10px 0px;
+    font-size: .8em;
+    color: gray;
+    font-weight: 300;
+}
+.cart_item_list--heading{
+    margin: 20px;
+}
+
+.cart_bill{
+    width: 100%;
+    /* border: 1px solid black; */
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    margin: 50px;
+    height: 300px;
+    padding: auto;
+}
+.cart_bill--heading{
+    width: 90%;
+    margin: 20px auto;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.cart_bill--sub-bill{
+    width: 90%;
+    /* border: 1px solid gray; */
+    margin: auto;
+}
+.cart_bill--sub-bill-row{
+    display: flex;
+    /* border: 1px solid gray; */
+}
+
+.cart_bill--sub-bill-row > span{
+    font-size: 0.9em;
+    font-weight: 700;
+    color: gray;
+    width: 100%;
+    border: 1px solid rgb(236, 235, 235);
+    padding: 10px;
+
+}
+
+.cart_bill--final_total,.cart_bill--checkout{
+    width: 90%;
+    margin: 20px auto;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: end;
+    /* border: 1px solid black; */
+}
+
+.cart_bill--checkout-btn{
+margin: 0px;
+background-color: rgb(248, 109, 132);
+color: white;
+font-weight: 400;
+cursor: pointer;
+}
